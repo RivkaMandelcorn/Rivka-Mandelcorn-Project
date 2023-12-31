@@ -1,0 +1,14 @@
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\bin\Debug\net8.0\DataBaseC#Project.exe
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\bin\Debug\net8.0\DataBaseC#Project.deps.json
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\bin\Debug\net8.0\DataBaseC#Project.runtimeconfig.json
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\bin\Debug\net8.0\DataBaseC#Project.dll
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\bin\Debug\net8.0\DataBaseC#Project.pdb
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.AssemblyInfo.cs
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.dll
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\refint\DataBaseC#Project.dll
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.pdb
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\DataBaseC#Project.genruntimeconfig.cache
+C:\Users\This_user\Desktop\DataBaseC#Project\DataBaseC#Project\obj\Debug\net8.0\ref\DataBaseC#Project.dll
